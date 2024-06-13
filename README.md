@@ -1,2 +1,3 @@
-# go-by-example
-Examples and notes from gobyexample.com
+# GO by example
+
+Examples and notes from [gobyexample.com](https://gobyexample.com/)
