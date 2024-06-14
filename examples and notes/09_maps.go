@@ -25,4 +25,5 @@ func main() {
 	fmt.Println(prs)
 
 	// like slices here we also have maps.Equal(m1, m2)
+	// import "maps" to use it
 }
