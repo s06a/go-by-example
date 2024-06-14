@@ -58,6 +58,6 @@ func main() {
 	fmt.Println(returnFactorial(10))
 
 	// Create a closure for multiplying by two
-	multiplyByTwo := multiplyBy()
+	multiplyByTwo := multiplyBy(2)
 	fmt.Println(multiplyByTwo(5))
 }
