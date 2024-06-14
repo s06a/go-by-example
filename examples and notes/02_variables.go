@@ -4,10 +4,9 @@ import "fmt"
 
 func main() {
 	var a = "0"
-	var b, c int
-	b, c = 1, 2
+	var b, c int = 1, 2
 	d := 3
-	var e = true
+	var e, f = 1, true
 
-	fmt.Println(a, b, c, d, e)
+	fmt.Println(a, b, c, d, e, f)
 }
