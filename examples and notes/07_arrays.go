@@ -9,6 +9,7 @@ func main() {
 
 	a[4] = 10
 	fmt.Println(a)
+	fmt.Println(len(a))
 
 	b := [5]int{1, 2, 3, 4, 5}
 	fmt.Println(b)
