@@ -52,6 +52,6 @@ default:
 ```go
 var a [5]int // or a := [5]int, also a := [...]int{1, 2, 3}
 a[4] = 2
-b := [...]int{1:2, 0:4, 2:6}
+b := [...]int{1:2, 0:4, 2:6} // index:value
 twoD := [4][4]int // call or set with twoD = [i][j]
 ```
