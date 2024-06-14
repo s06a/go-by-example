@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+
 	for i := 0; i < 3; i++ {
 		fmt.Println(i)
 	}
@@ -13,13 +14,13 @@ func main() {
 
 	i := 0
 	for {
+		fmt.Println(i)
 		i++
 		if i == 3 {
 			break
 		} else if i%2 == 0 {
 			continue
 		}
-		fmt.Println(i)
 	}
 
 	j := 0
