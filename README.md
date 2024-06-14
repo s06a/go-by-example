@@ -2,7 +2,7 @@
 
 Examples and notes from [gobyexample.com](https://gobyexample.com/)
 
-### abridged version
+## abridged version
 
 variabels (more in [variables](examples and notes/02_variables.go))
 ```go
@@ -17,7 +17,7 @@ const pi float32 = 3.14
 ```
 
 for loop (more in [for loop](examples and notes/04_for_loop.go))
-```
+```go
 for i := range 4 {
     // do something
 }
