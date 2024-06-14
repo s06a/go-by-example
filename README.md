@@ -38,7 +38,7 @@ if a := 7; a%2 == 0 {
 }
 ```
 
-**switch** (more in [if else](examples%20and%20notes/06_switch.go))
+**switch** (more in [switch](examples%20and%20notes/06_switch.go))
 ```go
 switch time.Now().Weekday() {
 case time.Friday:
@@ -46,4 +46,12 @@ case time.Friday:
 default:
     // do something
 }
+```
+
+**arrays** (more in [arrays](examples%20and%20notes/07_arrays.go))
+```go
+var a [5]int // or a := [5]int, also a := [...]int{1, 2, 3}
+a[4] = 2
+b := [...]int{1:2, 0:4, 2:6}
+twoD := [4][4]int // call or set with twoD = [i][j]
 ```
