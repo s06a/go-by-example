@@ -8,5 +8,6 @@ func main() {
 	b, c = 1, 2
 	d := 3
 	var e = true
+
 	fmt.Println(a, b, c, d, e)
 }
