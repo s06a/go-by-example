@@ -2,7 +2,7 @@ package main
 
 // closures are functions that can access or manipulate
 // values from the outer function. also, here we use
-// anonymous function, which are useful when you want to
+// anonymous function, which is useful when you want to
 // define a function without a name.
 
 import "fmt"
