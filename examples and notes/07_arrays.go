@@ -28,5 +28,5 @@ func main() {
 		}
 	}
 	fmt.Println(twoD)
-	fmt.Println(twoD[2][:]) // third row
+	fmt.Println(twoD[2]) // or twoD[2][:] for third row
 }
