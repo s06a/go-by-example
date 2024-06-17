@@ -1,6 +1,8 @@
 # GO by example
 
-Examples and notes from [gobyexample.com](https://gobyexample.com/)
+Examples and notes from [gobyexample.com](https://gobyexample.com/). I have added some examples myself, but most of the content belongs to gobyexample. Additionally, an abridged version is being developed on this page as I progress through the process.
+
+
 
 ## abridged version
 
